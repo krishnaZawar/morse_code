@@ -1,0 +1,41 @@
+.title  h1{
+    font-size: 4rem;
+    color: white;
+}
+
+.title{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.code{
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+}
+
+.dash{
+    width: 20px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: white;
+    margin: 5px;
+}
+.dot{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin: 5px;
+}
+
+.upper-half  h3{
+    font-size: 1.75rem;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    margin-top: 20px;
+}
